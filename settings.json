@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "totemmc.joinmc.world",
-    "port": 34303,
+    "ip": "sharpness.joinmc.world",
+    "port": 49007,
     "version": "",
     "try-creative": false
   },
